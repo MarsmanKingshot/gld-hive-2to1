@@ -1,0 +1,167 @@
+# type,X,Y,label,color,seq  (Kingshot Mapper: X,Y = lower corner of the footprint)
+beartrap,746,470,Trap 1,#c0392b,1
+beartrap,732,462,Trap 2,#c0392b,2
+hq,755,469,HQ,#8e44ad,0
+city,732,460,T2-01,#2c8b9a,1
+city,730,462,T2-02,#2c8b9a,2
+city,734,460,T2-03,#2c8b9a,3
+city,730,464,T2-04,#2c8b9a,4
+city,730,460,T2-05,#2c8b9a,5
+city,736,462,T2-06,#2c8b9a,6
+city,732,466,T2-07,#2c8b9a,7
+city,736,464,T2-08,#2c8b9a,8
+city,734,466,T2-09,#2c8b9a,9
+city,736,460,T2-10,#2c8b9a,10
+city,730,466,T2-11,#2c8b9a,11
+city,732,458,T2-12,#2c8b9a,12
+city,728,462,T2-13,#2c8b9a,13
+city,734,458,T2-14,#2c8b9a,14
+city,728,464,T2-15,#2c8b9a,15
+city,736,466,T2-16,#2c8b9a,16
+city,730,458,T2-17,#2c8b9a,17
+city,728,460,T2-18,#2c8b9a,18
+city,738,462,T2-19,#2c8b9a,19
+city,732,468,T2-20,#2c8b9a,20
+city,736,458,T2-21,#2c8b9a,21
+city,738,464,T2-22,#2c8b9a,22
+city,728,466,T2-23,#2c8b9a,23
+city,734,468,T2-24,#2c8b9a,24
+city,738,460,T2-25,#2c8b9a,25
+city,730,468,T2-26,#2c8b9a,26
+city,732,456,T2-27,#2c8b9a,27
+city,738,466,T2-28,#2c8b9a,28
+city,736,468,T2-29,#2c8b9a,29
+city,734,456,T2-30,#2c8b9a,30
+city,726,464,T2-31,#2c8b9a,31
+city,730,456,T2-32,#2c8b9a,32
+city,726,460,T2-33,#2c8b9a,33
+city,738,458,T2-34,#2c8b9a,34
+city,728,468,T2-35,#2c8b9a,35
+city,736,456,T2-36,#2c8b9a,36
+city,726,466,T2-37,#2c8b9a,37
+city,740,462,T2-38,#2c8b9a,38
+city,732,470,T2-39,#2c8b9a,39
+city,740,464,T2-40,#2c8b9a,40
+city,734,470,T2-41,#2c8b9a,41
+city,738,468,T2-42,#2c8b9a,42
+city,728,456,T2-43,#2c8b9a,43
+city,726,458,T2-44,#2c8b9a,44
+city,740,460,T2-45,#2c8b9a,45
+city,730,470,T2-46,#2c8b9a,46
+city,740,466,T2-47,#2c8b9a,47
+city,736,470,T2-48,#2c8b9a,48
+city,732,454,T2-49,#2c8b9a,49
+city,738,456,T2-50,#2c8b9a,50
+city,724,462,T2-51,#2c8b9a,51
+city,726,468,T2-52,#2c8b9a,52
+city,724,464,T2-53,#2c8b9a,53
+city,740,458,T2-54,#2c8b9a,54
+city,728,470,T2-55,#2c8b9a,55
+city,730,454,T2-56,#2c8b9a,56
+city,724,460,T2-57,#2c8b9a,57
+city,736,454,T2-58,#2c8b9a,58
+city,726,456,T2-59,#2c8b9a,59
+city,724,466,T2-60,#2c8b9a,60
+city,740,468,T2-61,#2c8b9a,61
+city,742,462,T2-62,#2c8b9a,62
+city,732,472,T2-63,#2c8b9a,63
+city,728,454,T2-64,#2c8b9a,64
+city,724,458,T2-65,#2c8b9a,65
+city,734,472,T2-66,#2c8b9a,66
+city,746,468,T1-01,#d98e2b,67
+city,744,470,T1-02,#d98e2b,68
+city,748,468,T1-03,#d98e2b,69
+city,744,472,T1-04,#d98e2b,70
+city,744,468,T1-05,#d98e2b,71
+city,750,470,T1-06,#d98e2b,72
+city,746,474,T1-07,#d98e2b,73
+city,750,472,T1-08,#d98e2b,74
+city,748,474,T1-09,#d98e2b,75
+city,750,468,T1-10,#d98e2b,76
+city,744,474,T1-11,#d98e2b,77
+city,746,466,T1-12,#d98e2b,78
+city,748,466,T1-13,#d98e2b,79
+city,742,472,T1-14,#d98e2b,80
+city,750,474,T1-15,#d98e2b,81
+city,744,466,T1-16,#d98e2b,82
+city,742,468,T1-17,#d98e2b,83
+city,752,470,T1-18,#d98e2b,84
+city,746,476,T1-19,#d98e2b,85
+city,750,466,T1-20,#d98e2b,86
+city,752,472,T1-21,#d98e2b,87
+city,742,474,T1-22,#d98e2b,88
+city,748,476,T1-23,#d98e2b,89
+city,752,468,T1-24,#d98e2b,90
+city,744,476,T1-25,#d98e2b,91
+city,742,466,T1-26,#d98e2b,92
+city,746,464,T1-27,#d98e2b,93
+city,740,470,T1-28,#d98e2b,94
+city,752,474,T1-29,#d98e2b,95
+city,750,476,T1-30,#d98e2b,96
+city,748,464,T1-31,#d98e2b,97
+city,740,472,T1-32,#d98e2b,98
+city,744,464,T1-33,#d98e2b,99
+city,742,476,T1-34,#d98e2b,100
+banner,775,445,banner,#95a5a6,201
+banner,768,445,banner,#95a5a6,202
+banner,761,445,banner,#95a5a6,203
+banner,781,452,banner,#95a5a6,204
+banner,774,452,banner,#95a5a6,205
+banner,767,452,banner,#95a5a6,206
+banner,760,452,banner,#95a5a6,207
+banner,753,452,banner,#95a5a6,208
+banner,781,459,banner,#95a5a6,209
+banner,774,459,banner,#95a5a6,210
+banner,767,459,banner,#95a5a6,211
+banner,760,459,banner,#95a5a6,212
+banner,781,466,banner,#95a5a6,213
+banner,774,466,banner,#95a5a6,214
+banner,767,466,banner,#95a5a6,215
+banner,746,458,banner,#95a5a6,216
+banner,746,451,banner,#95a5a6,217
+banner,761,482,banner,#95a5a6,218
+banner,767,481,banner,#95a5a6,219
+banner,774,485,banner,#95a5a6,220
+banner,761,489,banner,#95a5a6,221
+banner,767,488,banner,#95a5a6,222
+banner,774,492,banner,#95a5a6,223
+banner,756,490,banner,#95a5a6,224
+banner,762,494,banner,#95a5a6,225
+banner,767,495,banner,#95a5a6,226
+banner,757,495,banner,#95a5a6,227
+banner,774,499,banner,#95a5a6,228
+banner,754,445,banner,#95a5a6,229
+banner,755,439,banner,#95a5a6,230
+banner,762,438,banner,#95a5a6,231
+banner,751,432,banner,#95a5a6,232
+banner,745,425,banner,#95a5a6,233
+banner,781,490,banner,#95a5a6,234
+banner,788,493,banner,#95a5a6,235
+banner,750,501,banner,#95a5a6,236
+banner,744,480,banner,#95a5a6,237
+banner,743,487,banner,#95a5a6,238
+banner,745,463,banner,#95a5a6,239
+banner,750,483,banner,#95a5a6,240
+banner,737,483,banner,#95a5a6,241
+banner,738,476,banner,#95a5a6,242
+banner,752,459,banner,#95a5a6,243
+banner,752,477,banner,#95a5a6,244
+banner,743,470,new 1,#f1c40f,301
+banner,731,472,new 2,#f1c40f,302
+banner,732,465,new 3,#f1c40f,303
+banner,729,458,new 4,#f1c40f,304
+banner,735,462,new 5,#f1c40f,305
+banner,726,463,new 6,#f1c40f,306
+banner,746,473,new 7,#f1c40f,307
+banner,734,455,new 8,#f1c40f,308
+banner,742,461,new 9,#f1c40f,309
+banner,736,472,new 10,#f1c40f,310
+banner,725,468,new 11,#f1c40f,311
+banner,735,465,new 12,#f1c40f,312
+banner,742,465,new 13,#f1c40f,313
+banner,749,470,new 14,#f1c40f,314
+banner,725,456,new 15,#f1c40f,315
+banner,738,455,new 16,#f1c40f,316
+banner,739,473,new 17,#f1c40f,317
+banner,727,451,new 18,#f1c40f,318
+banner,747,478,new 19,#f1c40f,319
