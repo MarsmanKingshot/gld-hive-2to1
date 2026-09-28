@@ -22,7 +22,7 @@ city,754,457,T1-17 Dani_Is_doNUTS,#2c8b9a,17
 city,764,459,T1-18 Sir Ranno,#2c8b9a,18
 city,758,465,T1-19 Chyoz,#2c8b9a,19
 city,762,455,T1-20 homy,#2c8b9a,20
-city,764,461,T1-21 Palefox,#2c8b9a,21
+city,764,461,T1-21,#2c8b9a,21
 city,754,463,T1-22 Venom Goo,#2c8b9a,22
 city,760,465,T1-23 Honey,#2c8b9a,23
 city,764,457,T1-24 Dustin333,#2c8b9a,24
@@ -73,7 +73,6 @@ city,746,469,T2-02 Filip,#d98e2b,68
 city,750,467,T2-03 lordiest lord,#d98e2b,69
 city,746,471,T2-04 YR24,#d98e2b,70
 city,746,467,T2-05 storm_tootin,#d98e2b,71
-city,752,469,T2-06 LESTAT St W,#d98e2b,72
 city,748,473,T2-07 Abdullah,#d98e2b,73
 city,752,471,T2-08 goodway,#d98e2b,74
 city,750,473,T2-09 Jhs,#d98e2b,75
@@ -154,3 +153,5 @@ banner,748,472,new 2,#f1c40f,302
 banner,758,462,new 3,#f1c40f,303
 banner,756,456,new 4,#f1c40f,304
 banner,761,459,new 5,#f1c40f,305
+city,751,469,T2-35 Palefox,#d98e2b,101
+city,753,469,T2-36 LESTAT St W,#d98e2b,102
