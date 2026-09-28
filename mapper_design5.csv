@@ -9,7 +9,6 @@ city,756,461,T1-04 RAD_Hare_Day,#2c8b9a,4
 city,756,457,T1-05 LadyGraham2000,#2c8b9a,5
 city,762,459,T1-06 Lethal_Livia_Lea,#2c8b9a,6
 city,758,463,T1-07 Aly,#2c8b9a,7
-city,762,461,T1-08 Marsman,#2c8b9a,8
 city,760,463,T1-09 DeimnSon,#2c8b9a,9
 city,762,457,T1-10 Lothar,#2c8b9a,10
 city,756,463,T1-11 Leeroy5,#2c8b9a,11
@@ -22,7 +21,6 @@ city,754,457,T1-17 Dani_Is_doNUTS,#2c8b9a,17
 city,764,459,T1-18 Sir Ranno,#2c8b9a,18
 city,758,465,T1-19 Chyoz,#2c8b9a,19
 city,762,455,T1-20 homy,#2c8b9a,20
-city,764,461,T1-21,#2c8b9a,21
 city,754,463,T1-22 Venom Goo,#2c8b9a,22
 city,760,465,T1-23 Honey,#2c8b9a,23
 city,764,457,T1-24 Dustin333,#2c8b9a,24
@@ -39,7 +37,6 @@ city,754,465,T1-34 Zhu,#2c8b9a,34
 city,762,453,T1-35 Lord Frog,#2c8b9a,35
 city,752,463,T1-36 Fabled Hero,#2c8b9a,36
 city,758,467,T1-37 Govenor Ziggy,#2c8b9a,37
-city,766,461,T1-38 Olivia1,#2c8b9a,38
 city,760,467,T1-39 Valera,#2c8b9a,39
 city,764,465,T1-40 PTeixeira,#2c8b9a,40
 city,754,453,T1-41 Jamestown,#2c8b9a,41
@@ -63,7 +60,6 @@ city,764,467,T1-58 carlos96,#2c8b9a,58
 city,768,459,T1-59 hijodeput 4,#2c8b9a,59
 city,758,469,T1-60,#2c8b9a,60
 city,754,451,T1-61,#2c8b9a,61
-city,768,461,T1-62,#2c8b9a,62
 city,760,469,T1-63,#2c8b9a,63
 city,766,453,T1-64,#2c8b9a,64
 city,764,451,T1-65,#2c8b9a,65
@@ -156,3 +152,7 @@ city,751,469,T2-35 Palefox,#d98e2b,101
 city,753,469,T2-36 LESTAT St W,#d98e2b,102
 city,751,471,T2-37 goodway,#d98e2b,103
 city,753,471,T2-38,#d98e2b,104
+city,761,461,T1-67 Marsman,#2c8b9a,105
+city,763,461,T1-68 Olivia1,#2c8b9a,106
+city,765,461,T1-69,#2c8b9a,107
+city,767,461,T1-70,#2c8b9a,108
