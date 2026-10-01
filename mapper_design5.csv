@@ -2,30 +2,29 @@
 beartrap,758,459,Trap 1,#c0392b,1
 beartrap,748,469,Trap 2,#c0392b,2
 hq,755,469,HQ,#8e44ad,0
-city,758,457,T1-01 Chef Biskote,#2c8b9a,1
-city,756,459,T1-02 Bahaatoooooooot,#2c8b9a,2
-city,760,457,T1-03 Goldie,#2c8b9a,3
-city,756,461,T1-04 RAD_Hare_Day,#2c8b9a,4
+city,758,457,T1-01 Buzz Lightyear,#2c8b9a,1
+city,756,459,T1-02 Bahaa,#2c8b9a,2
+city,760,457,T1-03 Goldie_Member,#2c8b9a,3
+city,756,461,T1-04 Standard RAD,#2c8b9a,4
 city,756,457,T1-05 LadyGraham2000,#2c8b9a,5
-city,762,459,T1-06 Lethal_Livia_Lea,#2c8b9a,6
+city,762,459,T1-06,#2c8b9a,6
 city,758,463,T1-07 Aly,#2c8b9a,7
 city,760,463,T1-09 DeimnSon,#2c8b9a,9
 city,762,457,T1-10 Lothar,#2c8b9a,10
 city,756,463,T1-11 Leeroy5,#2c8b9a,11
 city,758,455,T1-12 b1ackbyte,#2c8b9a,12
 city,754,459,T1-13 Copernicus,#2c8b9a,13
-city,760,455,T1-14 (no name shown),#2c8b9a,14
+city,760,455,T1-14 Elpandito,#2c8b9a,14
 city,754,461,T1-15 Ben237,#2c8b9a,15
-city,762,463,T1-16 Da Chef,#2c8b9a,16
-city,754,457,T1-17 Dani_Is_doNUTS,#2c8b9a,17
+city,762,463,T1-16 Da Bxstard Chef,#2c8b9a,16
+city,754,457,T1-17 Alotta_Fagina,#2c8b9a,17
 city,764,459,T1-18 Sir Ranno,#2c8b9a,18
 city,758,465,T1-19 Chyoz,#2c8b9a,19
-city,762,455,T1-20 homy,#2c8b9a,20
+city,762,455,T1-20 Bash,#2c8b9a,20
 city,754,463,T1-22 Venom Goo,#2c8b9a,22
 city,760,465,T1-23 Honey,#2c8b9a,23
 city,764,457,T1-24 Dustin333,#2c8b9a,24
 city,756,465,T1-25 Michael Myers,#2c8b9a,25
-city,754,455,T1-26 PENDRGON,#2c8b9a,26
 city,758,453,T1-27 Swqa,#2c8b9a,27
 city,764,463,T1-28 durzo,#2c8b9a,28
 city,762,465,T1-29 Ocram,#2c8b9a,29
@@ -33,69 +32,63 @@ city,760,453,T1-30 Urmel,#2c8b9a,30
 city,752,461,T1-31 Lola,#2c8b9a,31
 city,752,457,T1-32 DomGordo,#2c8b9a,32
 city,764,455,T1-33 Nibla,#2c8b9a,33
-city,754,465,T1-34 Zhu,#2c8b9a,34
+city,754,465,T1-34 Fabled Hero,#2c8b9a,34
 city,762,453,T1-35 Lord Frog,#2c8b9a,35
-city,752,463,T1-36 Fabled Hero,#2c8b9a,36
+city,752,463,T1-36 Zhu,#2c8b9a,36
 city,758,467,T1-37 Govenor Ziggy,#2c8b9a,37
 city,766,461,T1-38 Tanaris,#2c8b9a,38
-city,760,467,T1-39 Valera,#2c8b9a,39
+city,760,467,T1-39 Jack Sparow,#2c8b9a,39
 city,764,465,T1-40 PTeixeira,#2c8b9a,40
 city,754,453,T1-41 Jamestown,#2c8b9a,41
-city,752,455,T1-42 Martin73,#2c8b9a,42
 city,766,457,T1-43 coolcap,#2c8b9a,43
-city,756,467,T1-44 Sir Angelos 2,#2c8b9a,44
-city,766,463,T1-45 Vivek,#2c8b9a,45
+city,756,467,T1-44 Valera,#2c8b9a,44
+city,766,463,T1-45,#2c8b9a,45
 city,762,467,T1-46 Mohamed,#2c8b9a,46
 city,758,451,T1-47 Ted,#2c8b9a,47
 city,764,453,T1-48 Stellar,#2c8b9a,48
 city,750,459,T1-49 Tony,#2c8b9a,49
 city,750,461,T1-50 Silvia,#2c8b9a,50
-city,766,455,T1-51 Marsman,#2c8b9a,51
-city,754,467,T1-52 Olivia1,#2c8b9a,52
-city,756,451,T1-53 UNO,#2c8b9a,53
+city,766,455,T1-51 Sting,#2c8b9a,51
+city,754,467,T1-52,#2c8b9a,52
+city,756,451,T1-53,#2c8b9a,53
 city,750,457,T1-54 CREECHA,#2c8b9a,54
 city,762,451,T1-55 Toppo,#2c8b9a,55
 city,752,453,T1-56 OLAS,#2c8b9a,56
-city,750,463,T1-57 Lammac112909,#2c8b9a,57
-city,764,467,T1-58 carlos96,#2c8b9a,58
-city,768,459,T1-59 hijodeput 4,#2c8b9a,59
+city,764,467,T1-58,#2c8b9a,58
+city,768,459,T1-59,#2c8b9a,59
 city,758,469,T1-60,#2c8b9a,60
-city,754,451,T1-61,#2c8b9a,61
-city,768,461,T1-62,#2c8b9a,62
+city,754,451,T1-61 UNO,#2c8b9a,61
 city,760,469,T1-63,#2c8b9a,63
-city,766,453,T1-64,#2c8b9a,64
-city,764,451,T1-65,#2c8b9a,65
+city,766,453,T1-64 Leo_tooooooooot,#2c8b9a,64
+city,764,451,T1-65 Tywin,#2c8b9a,65
 city,762,469,T1-66,#2c8b9a,66
-city,748,467,T2-01 Dr Evil,#d98e2b,67
+city,748,467,T2-01 Complaint_Dept,#d98e2b,67
 city,746,469,T2-02 Filip,#d98e2b,68
 city,750,467,T2-03 lordiest lord,#d98e2b,69
-city,746,471,T2-04 Amy,#d98e2b,70
-city,746,467,T2-05 storm_tootin,#d98e2b,71
-city,748,473,T2-07 Jhendrew,#d98e2b,73
+city,746,471,T2-04 YR24,#d98e2b,70
+city,746,467,T2-05 Stormy_Knight,#d98e2b,71
+city,748,473,T2-07 SERENA,#d98e2b,73
 city,750,473,T2-09 Jhs,#d98e2b,75
-city,752,467,T2-10 Elk,#d98e2b,76
-city,746,473,T2-11 YR24,#d98e2b,77
+city,752,467,T2-10 2sadobin,#d98e2b,76
+city,746,473,T2-11 Amy,#d98e2b,77
 city,748,465,T2-12 Scyco,#d98e2b,78
-city,750,465,T2-13 PabloTheAmerican,#d98e2b,79
-city,744,471,T2-14 KingMe,#d98e2b,80
+city,750,465,T2-13 LESTAT St W,#d98e2b,79
+city,744,471,T2-14 123mitdabei,#d98e2b,80
 city,752,473,T2-15 B rian,#d98e2b,81
 city,746,465,T2-16 HJoy,#d98e2b,82
-city,744,467,T2-17 Ellectra,#d98e2b,83
-city,748,475,T2-18 Mike Wazowski,#d98e2b,84
+city,744,467,T2-17 homy,#d98e2b,83
+city,748,475,T2-18 JustBeckyDamit,#d98e2b,84
 city,752,465,T2-19 Blah,#d98e2b,85
-city,744,473,T2-20 123mitdabei,#d98e2b,86
-city,750,475,T2-21 GoodGirl_Becky,#d98e2b,87
-city,746,475,T2-22 shakka,#d98e2b,88
-city,744,465,T2-23,#d98e2b,89
-city,748,463,T2-24,#d98e2b,90
-city,742,469,T2-25 Jack Sparow,#d98e2b,91
-city,754,473,T2-26 Maccy,#d98e2b,92
-city,752,475,T2-27 Duncan Donuts,#d98e2b,93
-city,742,471,T2-28 Ghost Rider,#d98e2b,94
-city,746,463,T2-29 AceSlayer,#d98e2b,95
-city,742,467,T2-30 Tired_ambie,#d98e2b,96
-city,744,475,T2-31,#d98e2b,97
-city,742,473,T2-32,#d98e2b,98
+city,744,473,T2-20 Ghost Rider,#d98e2b,86
+city,750,475,T2-21 Dr Duncan,#d98e2b,87
+city,746,475,T2-22 Angel_Odinsdott,#d98e2b,88
+city,744,465,T2-23 Matrix,#d98e2b,89
+city,754,473,T2-26 Maraiah Queen,#d98e2b,92
+city,752,475,T2-27 Ellectra,#d98e2b,93
+city,742,471,T2-28 Martin73,#d98e2b,94
+city,742,467,T2-30 shakka,#d98e2b,96
+city,744,475,T2-31 Engineer Almazan,#d98e2b,97
+city,742,473,T2-32 Lazy_ambie,#d98e2b,98
 city,748,477,T2-33,#d98e2b,99
 city,750,477,T2-34,#d98e2b,100
 banner,775,445,banner,#95a5a6,201
@@ -151,6 +144,19 @@ banner,758,462,new 3,#f1c40f,303
 banner,756,456,new 4,#f1c40f,304
 banner,761,459,new 5,#f1c40f,305
 city,751,469,T2-35 Palefox,#d98e2b,101
-city,753,469,T2-36 LESTAT St W,#d98e2b,102
+city,753,469,T2-36 YJYJ222,#d98e2b,102
 city,751,471,T2-37 goodway,#d98e2b,103
 city,753,471,T2-38 Abdullah,#d98e2b,104
+city,761,461,T1-67 MarsChitect,#2c8b9a,105
+city,763,461,T1-68 Olivia1,#2c8b9a,106
+city,742,465,T2-39 hijodeput 4,#d98e2b,107
+city,742,475,T2-40 Suchyy89,#d98e2b,108
+city,743,463,T2-41 Suresh 18,#d98e2b,109
+city,743,469,T2-42 KingMe,#d98e2b,110
+city,747,460,T2-43 Skid,#d98e2b,111
+city,747,463,T2-44 AceSlayer,#d98e2b,112
+city,749,463,T2-45 Lammac112909,#d98e2b,113
+city,753,455,T1-69 Vivek,#2c8b9a,114
+city,756,472,T2-46 Random TooT,#d98e2b,115
+city,768,453,T1-70 carlos96,#2c8b9a,116
+city,768,461,T1-71 DeepSea,#2c8b9a,117
